@@ -1,10 +1,6 @@
 # ✈️ Nile Air – Wings of Comfort
 This project aims to create a **comprehensive advertising campaign** and a **new visual identity** for Nile Air.  
 
-## 📌 Project Description
-This project aims to create a comprehensive advertising campaign and a new visual identity for Nile Air.
-The campaign focuses on refreshing the company’s brand image and positioning it as a modern, comfortable, and reliable airline for both local and international travelers.
-
 ---
 
 ## 👥 Team Members
@@ -15,6 +11,12 @@ The campaign focuses on refreshing the company’s brand image and positioning i
 - Ahmed Mohamed Ahmed Mahmoud  
 
 ---
+
+## 📌 Project Description
+This project aims to create a comprehensive advertising campaign and a new visual identity for Nile Air.
+The campaign focuses on refreshing the company’s brand image and positioning it as a modern, comfortable, and reliable airline for both local and international travelers.
+
+---
 ## 🎯 Objectives of the Campaign
 - Enhance brand awareness and strengthen Nile Air’s presence in the market.  
 - Increase bookings through the official website and mobile application.  
@@ -23,7 +25,6 @@ The campaign focuses on refreshing the company’s brand image and positioning i
 ---
 
 ## Scope of work
-
 
 The scope includes:
 - **Logo Redesign**: A modern logo reflecting Nile Air’s values and vision.  
