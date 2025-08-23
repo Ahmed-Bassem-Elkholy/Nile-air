@@ -1,8 +1,9 @@
 # ✈️ Nile Air – Wings of Comfort
+This project aims to create a **comprehensive advertising campaign** and a **new visual identity** for Nile Air.  
 
 ## 📌 Project Description
-A comprehensive advertising campaign and new visual identity project for **Nile Air** under the supervision of **DEPI Project GIZ3_DRT4_S2 Team 4**.  
-This campaign focuses on refreshing the company’s brand image and positioning it as a **modern, comfortable, and reliable airline** for both local and international travelers.
+This project aims to create a comprehensive advertising campaign and a new visual identity for Nile Air.
+The campaign focuses on refreshing the company’s brand image and positioning it as a modern, comfortable, and reliable airline for both local and international travelers.
 
 ---
 
@@ -22,7 +23,7 @@ This campaign focuses on refreshing the company’s brand image and positioning 
 ---
 
 ## Scope of work
-This project aims to create a **comprehensive advertising campaign** and a **new visual identity** for Nile Air.  
+
 
 The scope includes:
 - **Logo Redesign**: A modern logo reflecting Nile Air’s values and vision.  
