@@ -9,7 +9,7 @@ This project aims to create a **comprehensive advertising campaign** and a **new
 - Adham Hesham Mostafa Abdelkhallek  
 - Omr Ryad Bakry Abdellghani  
 - Ahmed Mohamed Ahmed Mahmoud  
-
+- Abdullah Ahmed Sayed
 ---
 
 ## 📌 Project Description
