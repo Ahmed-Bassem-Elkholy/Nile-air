@@ -69,7 +69,7 @@ The scope includes:
 | Omr Ryad | Billboards & Outdoor Posters designs |
 | Ahmed Gaber | Aircraft Exterior Design - Onboard Packaging |
 | Ahmed Mahmoud | Ticket & Business Card Design |
-
+| All members | Final presentation design |
 
 ---
 
