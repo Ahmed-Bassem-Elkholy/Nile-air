@@ -24,7 +24,7 @@ The campaign focuses on refreshing the company’s brand image and positioning i
 
 ---
 
-## Scope of work
+## 🔎 Scope of work
 
 The scope includes:
 - **Logo Redesign**: A modern logo reflecting Nile Air’s values and vision.  
@@ -32,8 +32,7 @@ The scope includes:
 - **Billboards & Outdoor Posters**: Large-scale designs to increase brand visibility.  
 - **Flyers & Roll-ups**: Promotional materials for exhibitions, airports, and events.  
 - **Aircraft Exterior Design**: A creative livery showcasing the new identity.  
-- **Onboard Packaging**: Branded meal boxes, kits, and other in-flight essentials.  
-- **Seat Design Elements**: Branded headrest covers and seat styling concepts.  
+- **Onboard Packaging**: Branded meal boxes, kits, and other in-flight essentials.   
 - **Ticket Design**: A fresh, modern look for boarding passes and tickets.   
 - **Business Card Design**: Professional business cards for staff and management.  
  
@@ -53,12 +52,27 @@ The scope includes:
 ---
 
 ## 📂 Deliverables
-- Full set of branding materials (logo, posters, billboards, tickets, uniforms, etc.)  
+- Full set of branding materials (logo, posters, billboards, tickets, etc.)  
 - Refined and tested designs ready for deployment.  
 - Comprehensive **Brand Guidelines Document**.  
 - Final professional presentation & source files.
 
 ---
 
-## Drive link
+## 📝 Project plan
+
+| Member | work |
+|------------------------|---------------------------------------------------------------|
+| Ahmed Bassem | colors and font choosing - Flyers & Roll-ups design |
+| Adham Hesham | Logo design - logo presentation |
+| Abdullah Ahmed | Social Media Posters design |
+| Omr Ryad | Billboards & Outdoor Posters designs |
+| Ahmed Gaber | Aircraft Exterior Design - Onboard Packaging |
+| Ahmed Mahmoud | Ticket & Business Card Design |
+
+
+---
+
+
+## 🗂️ Drive link
 https://drive.google.com/drive/folders/1szUn7AeUi9lxUorbAy3WGp4Yi_9QNft7  
