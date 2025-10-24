@@ -43,8 +43,8 @@ The scope includes:
 | Week | Phase | Details |
 |------|--------------------------|-------------------------------------------------------------------------|
 | 1 | Research & Planning | Market analysis – Defining target audience |
-| 2 | Creative Messaging | Copywriting – Visual identity design – Hashtag selection |
-| 3–5 | Production | Video production – Designing visuals & banners – Preparing landing page|
+| 2 | Creative Messaging | Copywriting – Visual identity design |
+| 3–5 | Production | Designing visuals & banners – Preparing landing page|
 | 6 | Review & Refinement | Review all designs – Refine based on feedback – Adjust colors & layouts|
 | 7 | Final Testing & Docs | Test designs on mockups – Ensure compatibility – Prepare guidelines doc|
 | 8 | Presentation & Delivery | Final presentation – Professional slides – Deliver all final files |
