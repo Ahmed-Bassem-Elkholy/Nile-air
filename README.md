@@ -10,6 +10,7 @@ This project aims to create a **comprehensive advertising campaign** and a **new
 - Omr Ryad Bakry Abdellghani  
 - Ahmed Mohamed Ahmed Mahmoud  
 - Abdullah Ahmed Sayed
+
 ---
 
 ## 📌 Project Description
@@ -17,6 +18,7 @@ This project aims to create a comprehensive advertising campaign and a new visua
 The campaign focuses on refreshing the company’s brand image and positioning it as a modern, comfortable, and reliable airline for both local and international travelers.
 
 ---
+
 ## 🎯 Objectives of the Campaign
 - Enhance brand awareness and strengthen Nile Air’s presence in the market.  
 - Increase bookings through the official website and mobile application.  
@@ -73,6 +75,10 @@ The scope includes:
 
 ---
 
+##  📖 presentation link
+https://drive.google.com/drive/folders/1KnqPBcQ1pTFIPQ5ahCuf-8gna4R3e5VB
+
+---
 
 ## 🗂️ Drive link
 https://drive.google.com/drive/folders/1szUn7AeUi9lxUorbAy3WGp4Yi_9QNft7  
