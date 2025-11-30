@@ -2,6 +2,9 @@
   <img src="cover.png" alt="Project Cover" width="100%">
 </p>
 <h1 align="center"> Nile Air</h1>
+<p align="center">
+  <img src="cover.png" width="100%" style="border-radius: 12px;">
+</p>
 
 # ✈️ Nile Air – Wings of Comfort
 This project aims to create a **comprehensive advertising campaign** and a **new visual identity** for Nile Air.  
