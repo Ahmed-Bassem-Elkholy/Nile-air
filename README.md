@@ -65,13 +65,12 @@ The scope includes:
 
 | Member | work |
 |------------------------|---------------------------------------------------------------|
-| Ahmed Bassem | colors and font choosing - Flyers & Roll-ups design |
-| Adham Hesham | Logo design - logo presentation |
-| Abdullah Ahmed | Social Media Posters design |
-| Omr Ryad | Billboards & Outdoor Posters designs |
-| Ahmed Gaber | Aircraft Exterior Design - Onboard Packaging |
-| Ahmed Mahmoud | Ticket & Business Card Design |
-| All members | Final presentation design |
+| Ahmed Bassem | colors and font choosing - Flyers & Roll-ups design - presentation |
+| Adham Hesham | Logo design - Ticket design |
+| Abdullah Ahmed | packaging and gifts design - Airplane design - business card design  |
+| Omr Ryad | Billboards & Outdoor Posters designs - Brochures - company profil |
+| Ahmed Gaber | Letterhead - Logo design - Ticket design |
+| Ahmed Mahmoud | Ticket & Business Card Design - Social media designs |
 
 ---
 
